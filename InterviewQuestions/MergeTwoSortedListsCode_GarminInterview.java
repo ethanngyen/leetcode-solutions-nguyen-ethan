@@ -1,4 +1,6 @@
 /*
+Garmin Fall 2027 SWE Internship Interview 10/1/2026 - Sophomore Level
+
 Write a function that takes two lists of sorted numbers and returns a list that combines the two into a single sorted list.
 
 For instance, if given the lists:
