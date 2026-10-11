@@ -40,4 +40,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0206-reverse-linked-list](https://github.com/ethanngyen/leetcode-solutions-nguyen-ethan/tree/main/0206-reverse-linked-list/) | Easy |
+## Concurrency
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1114-print-in-order](https://github.com/ethanngyen/leetcode-solutions-nguyen-ethan/tree/main/1114-print-in-order/) | Easy |
 <!---LeetCode Topics End-->
