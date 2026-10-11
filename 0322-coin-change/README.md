@@ -35,3 +35,9 @@
 	<li><code>1 &lt;= coins[i] &lt;= 2<sup>31</sup> - 1</code></li>
 	<li><code>0 &lt;= amount &lt;= 10<sup>4</sup></code></li>
 </ul>
+
+
+<p>State Farm Software Engineering Internship Interview Coding Question 10/11/2025
+
+Space complexity: O(n)
+Time complexity: O(n*m)</p>
