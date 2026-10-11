@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0322-coin-change](https://github.com/ethanngyen/leetcode-solutions-nguyen-ethan/tree/main/0322-coin-change/) | Medium |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/ethanngyen/leetcode-solutions-nguyen-ethan/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
+| [2433-find-the-original-array-of-prefix-xor](https://github.com/ethanngyen/leetcode-solutions-nguyen-ethan/tree/main/2433-find-the-original-array-of-prefix-xor/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -44,4 +45,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1114-print-in-order](https://github.com/ethanngyen/leetcode-solutions-nguyen-ethan/tree/main/1114-print-in-order/) | Easy |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2433-find-the-original-array-of-prefix-xor](https://github.com/ethanngyen/leetcode-solutions-nguyen-ethan/tree/main/2433-find-the-original-array-of-prefix-xor/) | Medium |
 <!---LeetCode Topics End-->
