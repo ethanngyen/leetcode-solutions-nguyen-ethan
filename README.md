@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0322-coin-change](https://github.com/ethanngyen/leetcode-solutions-nguyen-ethan/tree/main/0322-coin-change/) | Medium |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/ethanngyen/leetcode-solutions-nguyen-ethan/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
@@ -15,4 +16,20 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/ethanngyen/leetcode-solutions-nguyen-ethan/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0322-coin-change](https://github.com/ethanngyen/leetcode-solutions-nguyen-ethan/tree/main/0322-coin-change/) | Medium |
+## Breadth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0322-coin-change](https://github.com/ethanngyen/leetcode-solutions-nguyen-ethan/tree/main/0322-coin-change/) | Medium |
+## Knapsack Problem
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0322-coin-change](https://github.com/ethanngyen/leetcode-solutions-nguyen-ethan/tree/main/0322-coin-change/) | Medium |
+## Complete Knapsack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0322-coin-change](https://github.com/ethanngyen/leetcode-solutions-nguyen-ethan/tree/main/0322-coin-change/) | Medium |
 <!---LeetCode Topics End-->
