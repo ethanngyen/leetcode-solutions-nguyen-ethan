@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0088-merge-sorted-array](https://github.com/ethanngyen/leetcode-solutions-nguyen-ethan/tree/main/0088-merge-sorted-array/) | Easy |
 | [0322-coin-change](https://github.com/ethanngyen/leetcode-solutions-nguyen-ethan/tree/main/0322-coin-change/) | Medium |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/ethanngyen/leetcode-solutions-nguyen-ethan/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 | [2270-number-of-ways-to-split-array](https://github.com/ethanngyen/leetcode-solutions-nguyen-ethan/tree/main/2270-number-of-ways-to-split-array/) | Medium |
@@ -17,6 +18,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0088-merge-sorted-array](https://github.com/ethanngyen/leetcode-solutions-nguyen-ethan/tree/main/0088-merge-sorted-array/) | Easy |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/ethanngyen/leetcode-solutions-nguyen-ethan/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -58,4 +60,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2270-number-of-ways-to-split-array](https://github.com/ethanngyen/leetcode-solutions-nguyen-ethan/tree/main/2270-number-of-ways-to-split-array/) | Medium |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0088-merge-sorted-array](https://github.com/ethanngyen/leetcode-solutions-nguyen-ethan/tree/main/0088-merge-sorted-array/) | Easy |
 <!---LeetCode Topics End-->
