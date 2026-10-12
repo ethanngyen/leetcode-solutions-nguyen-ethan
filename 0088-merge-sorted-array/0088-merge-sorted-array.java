@@ -4,6 +4,7 @@ class Solution {
         // Int j is used to track indices in nums2 array
         int j = 0;
 
+        // Check is nums1 is empty or has one insertion slot, and check if nums2 is not empty 
         if (m >= 0 && n > 0)
         {
             // For loop to iterate through the whole nums1 array
@@ -23,13 +24,14 @@ class Solution {
                     j++;
                 }
                 // Print statements to debug
-                System.out.println("Nums1 Iteration " + i + ":" + Arrays.toString(nums1));
-                System.out.println("Nums2 Iteration " + i + ":" + Arrays.toString(nums2));
+                // System.out.println("Nums1 Iteration " + i + ":" + Arrays.toString(nums1));
+                // System.out.println("Nums2 Iteration " + i + ":" + Arrays.toString(nums2));
             }
 
-            // Start at the index j + 1 index from the end
+            // Check if j is less than n (while we can still traverse through nums2 array)
             if (j < n)
             {
+                // Start at the index m + j index from the end
                 for (int i = m + j; i < nums1.length; i++)
                 {
                     // Add the remaining elements
