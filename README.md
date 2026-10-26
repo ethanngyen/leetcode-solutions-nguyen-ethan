@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/ethanngyen/leetcode-solutions-nguyen-ethan/tree/main/0001-two-sum/) | Easy |
 | [0014-longest-common-prefix](https://github.com/ethanngyen/leetcode-solutions-nguyen-ethan/tree/main/0014-longest-common-prefix/) | Easy |
 | [0049-group-anagrams](https://github.com/ethanngyen/leetcode-solutions-nguyen-ethan/tree/main/0049-group-anagrams/) | Medium |
 | [0088-merge-sorted-array](https://github.com/ethanngyen/leetcode-solutions-nguyen-ethan/tree/main/0088-merge-sorted-array/) | Easy |
@@ -79,5 +80,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/ethanngyen/leetcode-solutions-nguyen-ethan/tree/main/0001-two-sum/) | Easy |
 | [0049-group-anagrams](https://github.com/ethanngyen/leetcode-solutions-nguyen-ethan/tree/main/0049-group-anagrams/) | Medium |
 <!---LeetCode Topics End-->
