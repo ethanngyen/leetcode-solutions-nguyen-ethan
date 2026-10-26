@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/ethanngyen/leetcode-solutions-nguyen-ethan/tree/main/0014-longest-common-prefix/) | Easy |
+| [0049-group-anagrams](https://github.com/ethanngyen/leetcode-solutions-nguyen-ethan/tree/main/0049-group-anagrams/) | Medium |
 | [0088-merge-sorted-array](https://github.com/ethanngyen/leetcode-solutions-nguyen-ethan/tree/main/0088-merge-sorted-array/) | Easy |
 | [0322-coin-change](https://github.com/ethanngyen/leetcode-solutions-nguyen-ethan/tree/main/0322-coin-change/) | Medium |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/ethanngyen/leetcode-solutions-nguyen-ethan/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
@@ -19,6 +20,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0049-group-anagrams](https://github.com/ethanngyen/leetcode-solutions-nguyen-ethan/tree/main/0049-group-anagrams/) | Medium |
 | [0088-merge-sorted-array](https://github.com/ethanngyen/leetcode-solutions-nguyen-ethan/tree/main/0088-merge-sorted-array/) | Easy |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/ethanngyen/leetcode-solutions-nguyen-ethan/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 ## Dynamic Programming
@@ -69,8 +71,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/ethanngyen/leetcode-solutions-nguyen-ethan/tree/main/0014-longest-common-prefix/) | Easy |
+| [0049-group-anagrams](https://github.com/ethanngyen/leetcode-solutions-nguyen-ethan/tree/main/0049-group-anagrams/) | Medium |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/ethanngyen/leetcode-solutions-nguyen-ethan/tree/main/0014-longest-common-prefix/) | Easy |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0049-group-anagrams](https://github.com/ethanngyen/leetcode-solutions-nguyen-ethan/tree/main/0049-group-anagrams/) | Medium |
 <!---LeetCode Topics End-->
