@@ -12,6 +12,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0049-group-anagrams](https://github.com/ethanngyen/leetcode-solutions-nguyen-ethan/tree/main/0049-group-anagrams/) | Medium |
 | [0088-merge-sorted-array](https://github.com/ethanngyen/leetcode-solutions-nguyen-ethan/tree/main/0088-merge-sorted-array/) | Easy |
 | [0322-coin-change](https://github.com/ethanngyen/leetcode-solutions-nguyen-ethan/tree/main/0322-coin-change/) | Medium |
+| [0605-can-place-flowers](https://github.com/ethanngyen/leetcode-solutions-nguyen-ethan/tree/main/0605-can-place-flowers/) | Easy |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/ethanngyen/leetcode-solutions-nguyen-ethan/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 | [2270-number-of-ways-to-split-array](https://github.com/ethanngyen/leetcode-solutions-nguyen-ethan/tree/main/2270-number-of-ways-to-split-array/) | Medium |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/ethanngyen/leetcode-solutions-nguyen-ethan/tree/main/2433-find-the-original-array-of-prefix-xor/) | Medium |
@@ -19,6 +20,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/ethanngyen/leetcode-solutions-nguyen-ethan/tree/main/0011-container-with-most-water/) | Medium |
+| [0605-can-place-flowers](https://github.com/ethanngyen/leetcode-solutions-nguyen-ethan/tree/main/0605-can-place-flowers/) | Easy |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/ethanngyen/leetcode-solutions-nguyen-ethan/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
