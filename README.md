@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/ethanngyen/leetcode-solutions-nguyen-ethan/tree/main/0001-two-sum/) | Easy |
+| [0011-container-with-most-water](https://github.com/ethanngyen/leetcode-solutions-nguyen-ethan/tree/main/0011-container-with-most-water/) | Medium |
 | [0014-longest-common-prefix](https://github.com/ethanngyen/leetcode-solutions-nguyen-ethan/tree/main/0014-longest-common-prefix/) | Easy |
 | [0049-group-anagrams](https://github.com/ethanngyen/leetcode-solutions-nguyen-ethan/tree/main/0049-group-anagrams/) | Medium |
 | [0088-merge-sorted-array](https://github.com/ethanngyen/leetcode-solutions-nguyen-ethan/tree/main/0088-merge-sorted-array/) | Easy |
@@ -17,6 +18,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0011-container-with-most-water](https://github.com/ethanngyen/leetcode-solutions-nguyen-ethan/tree/main/0011-container-with-most-water/) | Medium |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/ethanngyen/leetcode-solutions-nguyen-ethan/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
@@ -67,6 +69,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0011-container-with-most-water](https://github.com/ethanngyen/leetcode-solutions-nguyen-ethan/tree/main/0011-container-with-most-water/) | Medium |
 | [0088-merge-sorted-array](https://github.com/ethanngyen/leetcode-solutions-nguyen-ethan/tree/main/0088-merge-sorted-array/) | Easy |
 ## String
 | Problem Name | Difficulty |
